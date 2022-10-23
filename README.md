@@ -8,4 +8,4 @@
 6. Введите коэффициенты квадратного уравнения
 7. Получите результат
 ## Пример
-![Иллюстрация к проекту](https://github.com/hydroponic/sockets-messenger/blob/main/template.png)
+![Иллюстрация к проекту](https://github.com/hydroponic/rmi-sq-calc/blob/main/template.png)
